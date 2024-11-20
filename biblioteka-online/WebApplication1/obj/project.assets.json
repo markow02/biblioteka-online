@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcel\\source\\repos\\biblioteka-online\\biblioteka-online\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Marcel\\source\\repos\\biblioteka-online\\biblioteka-online\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Marcel\\source\\repos\\biblioteka-online\\biblioteka-online\\WebApplication1\\biblioteka-online.csproj",
+      "projectName": "biblioteka-online",
+      "projectPath": "C:\\Users\\Marcel\\source\\repos\\biblioteka-online\\biblioteka-online\\WebApplication1\\biblioteka-online.csproj",
       "packagesPath": "C:\\Users\\Marcel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Marcel\\source\\repos\\biblioteka-online\\biblioteka-online\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
